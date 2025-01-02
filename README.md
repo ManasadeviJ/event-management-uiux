@@ -21,16 +21,13 @@ The design process involved:
 🛠️ Technologies & Tools
 •	Design Tools: Figma 
 •	Prototyping: Figma 
-📂 Folder Structure
+📂 Eventmanagement uiux [folder]
 ├── /assets
 │   ├── images
 │   ├── icons
 │   └── wireframes
 ├── /prototypes
-│   └── interactive_designs
-├── /src
-│   ├── components
-│   └── pages
+│   └── designs prototype ,flows
 └── README.md
 📧 Contact
 For any queries, manasadevij08@gmail.com
